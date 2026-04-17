@@ -1,0 +1,16 @@
+requests
+fastmcp
+wikipedia
+google-search-results
+python-dotenv
+streamlit
+pandas
+plotly
+redis
+langchain_redis
+langchain
+langchain-huggingface
+langchain-community
+sentence-transformers
+faiss-cpu
+bs4

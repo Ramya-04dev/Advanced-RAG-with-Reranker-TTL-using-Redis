@@ -1,9 +1,11 @@
 📚 Advanced RAG with Reranker (TTL using Redis)
+
 🔍 Project Overview
 This project implements an Advanced Retrieval-Augmented Generation (RAG) system using:
 FAISS for semantic search
 CrossEncoder for reranking
 Redis for caching with TTL
+
 TinyLlama for local summarization
 ⚙️ Features
 🔎 Semantic search using embeddings
